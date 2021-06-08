@@ -172,10 +172,10 @@ header {
         }
         .slick-next {
             right: 9%;
-            background: url(img/next.png) 0 0 / 100% no-repeat;
+            background: url("https://seangithub21.github.io/test-repo/img/next.png") 0 0 / 100% no-repeat;
         }.slick-prev {
             right: 13%;
-            background: url(img/prev.png) 0 0 / 100% no-repeat;
+            background: url("https://seangithub21.github.io/test-repo/img/prev.png") 0 0 / 100% no-repeat;
         }
         .slick-list {
             overflow: hidden;
@@ -823,7 +823,7 @@ main {
         }
     }
     .community {
-        background: url(img/community-img.jpeg) 0 0 / cover no-repeat;
+        background: url("https://seangithub21.github.io/test-repo/img/community-img.jpeg") 0 0 / cover no-repeat;
         @media screen and (max-width: 990px) {
             .wrapper {
                 h2 {
